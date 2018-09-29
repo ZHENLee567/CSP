@@ -1,8 +1,8 @@
-package µÚÊ®´Î;
+package ç¬¬åæ¬¡;
 
 import java.util.Scanner;
 
-public class ·Öµ°¸â {
+public class åˆ†è›‹ç³• {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n, k, sum = 0, num = 0, i;
